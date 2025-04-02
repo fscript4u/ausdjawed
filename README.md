@@ -411,7 +411,7 @@ TextButton_7.BackgroundColor3 = Color3.new(1, 1, 1)
 TextButton_7.Position = UDim2.new(0, 0, 0.0357142873, 0)
 TextButton_7.Size = UDim2.new(0, 190, 0, 260)
 TextButton_7.Font = Enum.Font.SourceSans
-TextButton_7.Text = "open"
+TextButton_7.Text = "niga"
 TextButton_7.TextColor3 = Color3.new(0, 0, 0)
 TextButton_7.TextSize = 14
 TextButton_7.MouseButton1Down:connect(function()
